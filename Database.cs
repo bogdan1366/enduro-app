@@ -13,13 +13,13 @@ namespace EnduroApp
         public volatile int compNr = 1;
         
         public List<Riders> AllRiders = new List<Riders>();
-        public List<Riders> Feminin_15_18 = new List<Riders>();
-        public List<Riders> Feminin_19_plus = new List<Riders>();
-        public List<Riders> Masculin_15_18 = new List<Riders>();
-        public List<Riders> Masculin_19_29 = new List<Riders>();
-        public List<Riders> Masculin_30_39 = new List<Riders>();
-        public List<Riders> Masculin_40_plus = new List<Riders>();
-        public List<Riders> Hobby = new List<Riders>();
+        public List<Riders> Master_Women_35_plus = new List<Riders>();
+        public List<Riders> Women_21_39 = new List<Riders>();
+        public List<Riders> U21_Women = new List<Riders>();
+        public List<Riders> U21_Men = new List<Riders>();
+        public List<Riders> Men_21_39 = new List<Riders>();
+        public List<Riders> Master_Men_40_plus = new List<Riders>();
+        public List<Riders> U15_Juniors = new List<Riders>();
 
         public Database() { }
                 

@@ -459,26 +459,26 @@ namespace EnduroApp
                             List<Riders> catList;
                             switch (rider.categoria)
                             {
-                                case Riders.categ.FEMININ_15_18:
-                                    catList = date.Feminin_15_18;
+                                case Riders.categ.MASTER_WOMEN_35_PLUS:
+                                    catList = date.Master_Women_35_plus;
                                     break;
-                                case Riders.categ.FEMININ_19_PLUS:
-                                    catList = date.Feminin_19_plus;
+                                case Riders.categ.WOMEN_21_39:
+                                    catList = date.Women_21_39;
                                     break;
-                                case Riders.categ.MASCULIN_15_18:
-                                    catList = date.Masculin_15_18;
+                                case Riders.categ.U21_WOMEN:
+                                    catList = date.U21_Women;
                                     break;
-                                case Riders.categ.MASCULIN_19_29:
-                                    catList = date.Masculin_19_29;
+                                case Riders.categ.U21_MEN:
+                                    catList = date.U21_Men;
                                     break;
-                                case Riders.categ.MASCULIN_30_39:
-                                    catList = date.Masculin_30_39;
+                                case Riders.categ.MEN_21_39:
+                                    catList = date.Men_21_39;
                                     break;
-                                case Riders.categ.MASCULIN_40_PLUS:
-                                    catList = date.Masculin_40_plus;
+                                case Riders.categ.MASTER_MEN_40_PLUS:
+                                    catList = date.Master_Men_40_plus;
                                     break;
-                                case Riders.categ.HOBBY:
-                                    catList = date.Hobby;
+                                case Riders.categ.U15_JUNIORS:
+                                    catList = date.U15_Juniors;
                                     break;
                                 default:
                                     return;
@@ -736,26 +736,26 @@ namespace EnduroApp
             List<Riders> catList;
             switch (selectedRider.categoria)
             {
-                case Riders.categ.FEMININ_15_18:
-                    catList = date.Feminin_15_18;
+                case Riders.categ.MASTER_WOMEN_35_PLUS:
+                    catList = date.Master_Women_35_plus;
                     break;
-                case Riders.categ.FEMININ_19_PLUS:
-                    catList = date.Feminin_19_plus;
+                case Riders.categ.WOMEN_21_39:
+                    catList = date.Women_21_39;
                     break;
-                case Riders.categ.MASCULIN_15_18:
-                    catList = date.Masculin_15_18;
+                case Riders.categ.U21_WOMEN:
+                    catList = date.U21_Women;
                     break;
-                case Riders.categ.MASCULIN_19_29:
-                    catList = date.Masculin_19_29;
+                case Riders.categ.U21_MEN:
+                    catList = date.U21_Men;
                     break;
-                case Riders.categ.MASCULIN_30_39:
-                    catList = date.Masculin_30_39;
+                case Riders.categ.MEN_21_39:
+                    catList = date.Men_21_39;
                     break;
-                case Riders.categ.MASCULIN_40_PLUS:
-                    catList = date.Masculin_40_plus;
+                case Riders.categ.MASTER_MEN_40_PLUS:
+                    catList = date.Master_Men_40_plus;
                     break;
-                case Riders.categ.HOBBY:
-                    catList = date.Hobby;
+                case Riders.categ.U15_JUNIORS:
+                    catList = date.U15_Juniors;
                     break;
                 default:
                     return;
@@ -955,12 +955,12 @@ namespace EnduroApp
                         tab.AddCell(new Phrase(et, new iTextSharp.text.Font(iTextSharp.text.Font.BOLD, 10)));
                     }
                     tab.AddCell(new Phrase("Timp Total", new iTextSharp.text.Font(iTextSharp.text.Font.BOLD, 10)));
-                    foreach (Riders rider in date.Masculin_30_39)
+                    foreach (Riders rider in date.Men_21_39)
                     {
-                        Phrase cellPhrase = new Phrase((date.Masculin_30_39.IndexOf(rider) + 1).ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
+                        Phrase cellPhrase = new Phrase((date.Men_21_39.IndexOf(rider) + 1).ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         PdfPCell cell = new PdfPCell(cellPhrase);
                         cell.VerticalAlignment = 1;
-                        if (date.Masculin_30_39.IndexOf(rider) % 2 == 0)
+                        if (date.Men_21_39.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -968,14 +968,14 @@ namespace EnduroApp
                         cellPhrase = new Phrase(rider.nrConcurs.ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         cell = new PdfPCell(cellPhrase);
                         cell.VerticalAlignment = 1;
-                        if (date.Masculin_30_39.IndexOf(rider) % 2 == 0)
+                        if (date.Men_21_39.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
                         tab.AddCell(cell);
                         cellPhrase = new Phrase(rider.nume, new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         cell = new PdfPCell(cellPhrase);
-                        if (date.Masculin_30_39.IndexOf(rider) % 2 == 0)
+                        if (date.Men_21_39.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -992,7 +992,7 @@ namespace EnduroApp
                                 cellPhrase = new Phrase(" ", new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                             }
                             cell = new PdfPCell(cellPhrase);
-                            if (date.Masculin_30_39.IndexOf(rider) % 2 == 0)
+                            if (date.Men_21_39.IndexOf(rider) % 2 == 0)
                                 cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                             else
                                 cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1008,7 +1008,7 @@ namespace EnduroApp
                             cellPhrase = new Phrase(" ", new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         }
                         cell = new PdfPCell(cellPhrase);
-                        if (date.Masculin_30_39.IndexOf(rider) % 2 == 0)
+                        if (date.Men_21_39.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1066,12 +1066,12 @@ namespace EnduroApp
                         tab.AddCell(new Phrase(et, new iTextSharp.text.Font(iTextSharp.text.Font.BOLD, 10)));
                     }
                     tab.AddCell(new Phrase("Timp Total", new iTextSharp.text.Font(iTextSharp.text.Font.BOLD, 10)));
-                    foreach (Riders rider in date.Masculin_19_29)
+                    foreach (Riders rider in date.U21_Men)
                     {
-                        Phrase cellPhrase = new Phrase((date.Masculin_19_29.IndexOf(rider) + 1).ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
+                        Phrase cellPhrase = new Phrase((date.U21_Men.IndexOf(rider) + 1).ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         PdfPCell cell = new PdfPCell(cellPhrase);
                         cell.VerticalAlignment = 1;
-                        if (date.Masculin_19_29.IndexOf(rider) % 2 == 0)
+                        if (date.U21_Men.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1079,14 +1079,14 @@ namespace EnduroApp
                         cellPhrase = new Phrase(rider.nrConcurs.ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         cell = new PdfPCell(cellPhrase);
                         cell.VerticalAlignment = 1;
-                        if (date.Masculin_19_29.IndexOf(rider) % 2 == 0)
+                        if (date.U21_Men.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
                         tab.AddCell(cell);
                         cellPhrase = new Phrase(rider.nume, new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         cell = new PdfPCell(cellPhrase);
-                        if (date.Masculin_19_29.IndexOf(rider) % 2 == 0)
+                        if (date.U21_Men.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1103,7 +1103,7 @@ namespace EnduroApp
                                 cellPhrase = new Phrase(" ", new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                             }
                             cell = new PdfPCell(cellPhrase);
-                            if (date.Masculin_19_29.IndexOf(rider) % 2 == 0)
+                            if (date.U21_Men.IndexOf(rider) % 2 == 0)
                                 cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                             else
                                 cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1119,7 +1119,7 @@ namespace EnduroApp
                             cellPhrase = new Phrase(" ", new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         }
                         cell = new PdfPCell(cellPhrase);
-                        if (date.Masculin_19_29.IndexOf(rider) % 2 == 0)
+                        if (date.U21_Men.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1177,12 +1177,12 @@ namespace EnduroApp
                         tab.AddCell(new Phrase(et, new iTextSharp.text.Font(iTextSharp.text.Font.BOLD, 10)));
                     }
                     tab.AddCell(new Phrase("Timp Total", new iTextSharp.text.Font(iTextSharp.text.Font.BOLD, 10)));
-                    foreach (Riders rider in date.Masculin_15_18)
+                    foreach (Riders rider in date.U21_Women)
                     {
-                        Phrase cellPhrase = new Phrase((date.Masculin_15_18.IndexOf(rider) + 1).ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
+                        Phrase cellPhrase = new Phrase((date.U21_Women.IndexOf(rider) + 1).ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         PdfPCell cell = new PdfPCell(cellPhrase);
                         cell.VerticalAlignment = 1;
-                        if (date.Masculin_15_18.IndexOf(rider) % 2 == 0)
+                        if (date.U21_Women.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1190,14 +1190,14 @@ namespace EnduroApp
                         cellPhrase = new Phrase(rider.nrConcurs.ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         cell = new PdfPCell(cellPhrase);
                         cell.VerticalAlignment = 1;
-                        if (date.Masculin_15_18.IndexOf(rider) % 2 == 0)
+                        if (date.U21_Women.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
                         tab.AddCell(cell);
                         cellPhrase = new Phrase(rider.nume, new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         cell = new PdfPCell(cellPhrase);
-                        if (date.Masculin_15_18.IndexOf(rider) % 2 == 0)
+                        if (date.U21_Women.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1214,7 +1214,7 @@ namespace EnduroApp
                                 cellPhrase = new Phrase(" ", new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                             }
                             cell = new PdfPCell(cellPhrase);
-                            if (date.Masculin_15_18.IndexOf(rider) % 2 == 0)
+                            if (date.U21_Women.IndexOf(rider) % 2 == 0)
                                 cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                             else
                                 cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1230,7 +1230,7 @@ namespace EnduroApp
                             cellPhrase = new Phrase(" ", new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         }
                         cell = new PdfPCell(cellPhrase);
-                        if (date.Masculin_15_18.IndexOf(rider) % 2 == 0)
+                        if (date.U21_Women.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1288,12 +1288,12 @@ namespace EnduroApp
                         tab.AddCell(new Phrase(et, new iTextSharp.text.Font(iTextSharp.text.Font.BOLD, 10)));
                     }
                     tab.AddCell(new Phrase("Timp Total", new iTextSharp.text.Font(iTextSharp.text.Font.BOLD, 10)));
-                    foreach (Riders rider in date.Feminin_15_18)
+                    foreach (Riders rider in date.Master_Women_35_plus)
                     {
-                        Phrase cellPhrase = new Phrase((date.Feminin_15_18.IndexOf(rider) + 1).ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
+                        Phrase cellPhrase = new Phrase((date.Master_Women_35_plus.IndexOf(rider) + 1).ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         PdfPCell cell = new PdfPCell(cellPhrase);
                         cell.VerticalAlignment = 1;
-                        if (date.Feminin_15_18.IndexOf(rider) % 2 == 0)
+                        if (date.Master_Women_35_plus.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1301,14 +1301,14 @@ namespace EnduroApp
                         cellPhrase = new Phrase(rider.nrConcurs.ToString(), new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         cell = new PdfPCell(cellPhrase);
                         cell.VerticalAlignment = 1;
-                        if (date.Feminin_15_18.IndexOf(rider) % 2 == 0)
+                        if (date.Master_Women_35_plus.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
                         tab.AddCell(cell);
                         cellPhrase = new Phrase(rider.nume, new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         cell = new PdfPCell(cellPhrase);
-                        if (date.Feminin_15_18.IndexOf(rider) % 2 == 0)
+                        if (date.Master_Women_35_plus.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1325,7 +1325,7 @@ namespace EnduroApp
                                 cellPhrase = new Phrase(" ", new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                             }
                             cell = new PdfPCell(cellPhrase);
-                            if (date.Feminin_15_18.IndexOf(rider) % 2 == 0)
+                            if (date.Master_Women_35_plus.IndexOf(rider) % 2 == 0)
                                 cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                             else
                                 cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1341,7 +1341,7 @@ namespace EnduroApp
                             cellPhrase = new Phrase(" ", new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 10));
                         }
                         cell = new PdfPCell(cellPhrase);
-                        if (date.Feminin_15_18.IndexOf(rider) % 2 == 0)
+                        if (date.Master_Women_35_plus.IndexOf(rider) % 2 == 0)
                             cell.BackgroundColor = iTextSharp.text.Color.LIGHT_GRAY;
                         else
                             cell.BackgroundColor = iTextSharp.text.Color.WHITE;
@@ -1440,19 +1440,19 @@ namespace EnduroApp
             //
             RankingsForm.Etape = data.NrofCheckpoints / 2;
             RankingsForm.CreateGrid();
-            RankingsForm.RefreshCat(data.Feminin_15_18);
+            RankingsForm.RefreshCat(data.Master_Women_35_plus);
             this.progressBar1.Value += 7;
-            RankingsForm.RefreshCat(data.Feminin_19_plus);
+            RankingsForm.RefreshCat(data.Women_21_39);
             this.progressBar1.Value += 7;
-            RankingsForm.RefreshCat(data.Masculin_15_18);
+            RankingsForm.RefreshCat(data.U21_Women);
             this.progressBar1.Value += 7;
-            RankingsForm.RefreshCat(data.Masculin_19_29);
+            RankingsForm.RefreshCat(data.U21_Men);
             this.progressBar1.Value += 7;
-            RankingsForm.RefreshCat(data.Masculin_30_39);
+            RankingsForm.RefreshCat(data.Men_21_39);
             this.progressBar1.Value += 7;
-            RankingsForm.RefreshCat(data.Masculin_40_plus);
+            RankingsForm.RefreshCat(data.Master_Men_40_plus);
             this.progressBar1.Value += 7;
-            RankingsForm.RefreshCat(data.Hobby);
+            RankingsForm.RefreshCat(data.U15_Juniors);
             foreach (Riders rider in data.AllRiders)
             {
                 if (!string.IsNullOrEmpty(rider.nume))
@@ -1616,26 +1616,26 @@ namespace EnduroApp
             List<Riders> catList;
             switch (selectedRider.categoria)
             {
-                case Riders.categ.FEMININ_15_18:
-                    catList = date.Feminin_15_18;
+                case Riders.categ.MASTER_WOMEN_35_PLUS:
+                    catList = date.Master_Women_35_plus;
                     break;
-                case Riders.categ.FEMININ_19_PLUS:
-                    catList = date.Feminin_19_plus;
+                case Riders.categ.WOMEN_21_39:
+                    catList = date.Women_21_39;
                     break;
-                case Riders.categ.MASCULIN_15_18:
-                    catList = date.Masculin_15_18;
+                case Riders.categ.U21_WOMEN:
+                    catList = date.U21_Women;
                     break;
-                case Riders.categ.MASCULIN_19_29:
-                    catList = date.Masculin_19_29;
+                case Riders.categ.U21_MEN:
+                    catList = date.U21_Men;
                     break;
-                case Riders.categ.MASCULIN_30_39:
-                    catList = date.Masculin_30_39;
+                case Riders.categ.MEN_21_39:
+                    catList = date.Men_21_39;
                     break;
-                case Riders.categ.MASCULIN_40_PLUS:
-                    catList = date.Masculin_40_plus;
+                case Riders.categ.MASTER_MEN_40_PLUS:
+                    catList = date.Master_Men_40_plus;
                     break;
-                case Riders.categ.HOBBY:
-                    catList = date.Hobby;
+                case Riders.categ.U15_JUNIORS:
+                    catList = date.U15_Juniors;
                     break;
                 default:
                     return;
@@ -1700,7 +1700,7 @@ namespace EnduroApp
                 {
                     Cursor defaultCursor = Cursor.Current;
                     Cursor.Current = Cursors.WaitCursor;
-                    ExportToCSV.ExportDataToCSV(date.Feminin_15_18, date.NrofCheckpoints, saveFileDialog1.FileName);
+                    ExportToCSV.ExportDataToCSV(date.Master_Women_35_plus, date.NrofCheckpoints, saveFileDialog1.FileName);
                     Cursor.Current = defaultCursor;
                     MessageBox.Show("Export realizat cu succes !");
                 }
@@ -1723,7 +1723,7 @@ namespace EnduroApp
                 {
                     Cursor defaultCursor = Cursor.Current;
                     Cursor.Current = Cursors.WaitCursor;
-                    ExportToCSV.ExportDataToCSV(date.Feminin_19_plus, date.NrofCheckpoints, saveFileDialog1.FileName);
+                    ExportToCSV.ExportDataToCSV(date.Women_21_39, date.NrofCheckpoints, saveFileDialog1.FileName);
                     Cursor.Current = defaultCursor;
                     MessageBox.Show("Export realizat cu succes !");
                 }
@@ -1746,7 +1746,7 @@ namespace EnduroApp
                 {
                     Cursor defaultCursor = Cursor.Current;
                     Cursor.Current = Cursors.WaitCursor;
-                    ExportToCSV.ExportDataToCSV(date.Masculin_15_18, date.NrofCheckpoints, saveFileDialog1.FileName);
+                    ExportToCSV.ExportDataToCSV(date.U21_Women, date.NrofCheckpoints, saveFileDialog1.FileName);
                     Cursor.Current = defaultCursor;
                     MessageBox.Show("Export realizat cu succes !");
                 }
@@ -1769,7 +1769,7 @@ namespace EnduroApp
                 {
                     Cursor defaultCursor = Cursor.Current;
                     Cursor.Current = Cursors.WaitCursor;
-                    ExportToCSV.ExportDataToCSV(date.Masculin_19_29, date.NrofCheckpoints, saveFileDialog1.FileName);
+                    ExportToCSV.ExportDataToCSV(date.U21_Men, date.NrofCheckpoints, saveFileDialog1.FileName);
                     Cursor.Current = defaultCursor;
                     MessageBox.Show("Export realizat cu succes !");
                 }
@@ -1792,7 +1792,7 @@ namespace EnduroApp
                 {
                     Cursor defaultCursor = Cursor.Current;
                     Cursor.Current = Cursors.WaitCursor;
-                    ExportToCSV.ExportDataToCSV(date.Masculin_30_39, date.NrofCheckpoints, saveFileDialog1.FileName);
+                    ExportToCSV.ExportDataToCSV(date.Men_21_39, date.NrofCheckpoints, saveFileDialog1.FileName);
                     Cursor.Current = defaultCursor;
                     MessageBox.Show("Export realizat cu succes !");
                 }
@@ -1815,7 +1815,7 @@ namespace EnduroApp
                 {
                     Cursor defaultCursor = Cursor.Current;
                     Cursor.Current = Cursors.WaitCursor;
-                    ExportToCSV.ExportDataToCSV(date.Masculin_40_plus, date.NrofCheckpoints, saveFileDialog1.FileName);
+                    ExportToCSV.ExportDataToCSV(date.Master_Men_40_plus, date.NrofCheckpoints, saveFileDialog1.FileName);
                     Cursor.Current = defaultCursor;
                     MessageBox.Show("Export realizat cu succes !");
                 }
@@ -1838,7 +1838,7 @@ namespace EnduroApp
                 {
                     Cursor defaultCursor = Cursor.Current;
                     Cursor.Current = Cursors.WaitCursor;
-                    ExportToCSV.ExportDataToCSV(date.Hobby, date.NrofCheckpoints, saveFileDialog1.FileName);
+                    ExportToCSV.ExportDataToCSV(date.U15_Juniors, date.NrofCheckpoints, saveFileDialog1.FileName);
                     Cursor.Current = defaultCursor;
                     MessageBox.Show("Export realizat cu succes !");
                 }

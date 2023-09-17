@@ -73,13 +73,13 @@
             this.comboBox1.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "Hobby",
-            "Masculin_40_plus",
-            "Masculin_30_39",
-            "Masculin_19_29",
-            "Masculin_15_18",
-            "Feminin_19_plus",
-            "Feminin 15-18"});
+            "U15_Juniors",
+            "Master_Men_40_plus",
+            "Men_21_39",
+            "U21_Men",
+            "U21_Women",
+            "Women_21_39",
+            "Master_Women_35_plus"});
             this.comboBox1.Location = new System.Drawing.Point(215, 187);
             this.comboBox1.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox1.Name = "comboBox1";

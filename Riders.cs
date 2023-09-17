@@ -56,20 +56,20 @@ namespace EnduroApp
                 {
                     switch (categoria)
                     {
-                        case categ.FEMININ_15_18:
-                            return "Feminin 15-18";
-                        case categ.FEMININ_19_PLUS:
-                            return "Feminin 19+";
-                        case categ.MASCULIN_15_18:
-                            return "Masculin 15-18";
-                        case categ.MASCULIN_19_29:
-                            return "Masculin 19-29";
-                        case categ.MASCULIN_30_39:
-                            return "Masculin 30-39";
-                        case categ.MASCULIN_40_PLUS:
-                            return "Masculin 40+";
-                        case categ.HOBBY:
-                            return "Hobby";
+                        case categ.MASTER_WOMEN_35_PLUS:
+                            return "Master Women 35+";
+                        case categ.WOMEN_21_39:
+                            return "Women 21-39";
+                        case categ.U21_WOMEN:
+                            return "U21 Women";
+                        case categ.U21_MEN:
+                            return "U21 Men";
+                        case categ.MEN_21_39:
+                            return "Men 21-39";
+                        case categ.MASTER_MEN_40_PLUS:
+                            return "Master Men 40+";
+                        case categ.U15_JUNIORS:
+                            return "U15 Juniors";
                         default:
                             throw new Exception("Category unknown");
                     } 
@@ -78,26 +78,26 @@ namespace EnduroApp
                 {
                     switch (value)
                     {
-                        case "Feminin 15-18":
-                            categoria = categ.FEMININ_15_18;
+                        case "Master Women 35+":
+                            categoria = categ.MASTER_WOMEN_35_PLUS;
                             break;
-                        case "Feminin 19+":
-                            categoria = categ.FEMININ_19_PLUS;
+                        case "Women 21-39":
+                            categoria = categ.WOMEN_21_39;
                             break;
-                        case "Masculin 15-18":
-                            categoria = categ.MASCULIN_15_18;
+                        case "U21 Women":
+                            categoria = categ.U21_WOMEN;
                             break;
-                        case "Masculin 19-29":
-                            categoria = categ.MASCULIN_19_29;
+                        case "U21 Men":
+                            categoria = categ.U21_MEN;
                             break;
-                        case "Masculin 30-39":
-                            categoria = categ.MASCULIN_30_39;
+                        case "Men 21-39":
+                            categoria = categ.MEN_21_39;
                             break;
-                        case "Masculin 40+":
-                            categoria = categ.MASCULIN_40_PLUS;
+                        case "Master Men 40+":
+                            categoria = categ.MASTER_MEN_40_PLUS;
                             break;
-                        case "Hobby":
-                            categoria = categ.HOBBY;
+                        case "U15 Juniors":
+                            categoria = categ.U15_JUNIORS;
                             break;
                         default:
                             throw new Exception(value + " category unknown");
@@ -106,7 +106,7 @@ namespace EnduroApp
             }
         #endregion
 
-        public enum categ : int { HOBBY, MASCULIN_40_PLUS, MASCULIN_30_39, MASCULIN_19_29, MASCULIN_15_18, FEMININ_19_PLUS, FEMININ_15_18 };
+            public enum categ : int { U15_JUNIORS, MASTER_MEN_40_PLUS, MEN_21_39, U21_MEN, U21_WOMEN, WOMEN_21_39, MASTER_WOMEN_35_PLUS };
         public bool hasAllCheckpoints = true;
         private byte[] tagID = new byte[4];
         private int[][] time = new int[20][]; // 20 de timpi (unul pentru fiecare checkpoint) 

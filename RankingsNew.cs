@@ -27,13 +27,13 @@ namespace EnduroApp
 
         public void CreateGrid()
         {
-            this.grdDataMasculin_40_plus.Columns.Clear();
-            this.grdDataMasculin_30_39.Columns.Clear();
-            this.grdDataMasculin_19_29.Columns.Clear();
-            this.grdDataMasculin_15_18.Columns.Clear();
-            this.grdDataFeminin_19_plus.Columns.Clear();
-            this.grdDataFeminin_15_18.Columns.Clear();
-            this.grdDataHobby.Columns.Clear();
+            this.grdDataMaster_Men_40_plus.Columns.Clear();
+            this.grdDataMen_21_39.Columns.Clear();
+            this.grdDataU21_Men.Columns.Clear();
+            this.grdDataU21_Women.Columns.Clear();
+            this.grdDataMaster_Women_35_plus.Columns.Clear();
+            this.grdDataWomen_21_39.Columns.Clear();
+            this.grdDataU15Juniors.Columns.Clear();
             
             foreach (Riders.categ cat in Enum.GetValues(typeof(Riders.categ)))
             {
@@ -41,26 +41,26 @@ namespace EnduroApp
                 DataGridView grdToUpdate;
                 switch (cat)
                 {
-                    case Riders.categ.FEMININ_15_18:
-                        grdToUpdate = this.grdDataFeminin_15_18;
+                    case Riders.categ.MASTER_WOMEN_35_PLUS:
+                        grdToUpdate = this.grdDataMaster_Women_35_plus;
                         break;
-                    case Riders.categ.FEMININ_19_PLUS:
-                        grdToUpdate = this.grdDataFeminin_19_plus;
+                    case Riders.categ.WOMEN_21_39:
+                        grdToUpdate = this.grdDataWomen_21_39;
                         break;
-                    case Riders.categ.MASCULIN_15_18:
-                        grdToUpdate = this.grdDataMasculin_15_18;
+                    case Riders.categ.U21_WOMEN:
+                        grdToUpdate = this.grdDataU21_Women;
                         break;
-                    case Riders.categ.MASCULIN_19_29:
-                        grdToUpdate = this.grdDataMasculin_19_29;
+                    case Riders.categ.U21_MEN:
+                        grdToUpdate = this.grdDataU21_Men;
                         break;
-                    case Riders.categ.MASCULIN_30_39:
-                        grdToUpdate = this.grdDataMasculin_30_39;
+                    case Riders.categ.MEN_21_39:
+                        grdToUpdate = this.grdDataMen_21_39;
                         break;
-                    case Riders.categ.MASCULIN_40_PLUS:
-                        grdToUpdate = this.grdDataMasculin_40_plus;
+                    case Riders.categ.MASTER_MEN_40_PLUS:
+                        grdToUpdate = this.grdDataMaster_Men_40_plus;
                         break;
-                    case Riders.categ.HOBBY:
-                        grdToUpdate = this.grdDataHobby;
+                    case Riders.categ.U15_JUNIORS:
+                        grdToUpdate = this.grdDataU15Juniors;
                         break;
                     default:
                         return;
@@ -113,20 +113,20 @@ namespace EnduroApp
             {
                 System.Windows.Forms.DataGridView gridToRefresh;
 
-                if (toRefresh.Equals(mainInstance.date.Feminin_15_18))
-                    gridToRefresh = grdDataFeminin_15_18;
-                else if (toRefresh.Equals(mainInstance.date.Feminin_19_plus))
-                    gridToRefresh = grdDataFeminin_19_plus;
-                else if (toRefresh.Equals(mainInstance.date.Masculin_15_18))
-                    gridToRefresh = grdDataMasculin_15_18;
-                else if (toRefresh.Equals(mainInstance.date.Masculin_19_29))
-                    gridToRefresh = grdDataMasculin_19_29;
-                else if (toRefresh.Equals(mainInstance.date.Masculin_30_39))
-                    gridToRefresh = grdDataMasculin_30_39;
-                else if (toRefresh.Equals(mainInstance.date.Masculin_40_plus))
-                    gridToRefresh = grdDataMasculin_40_plus;
-                else if (toRefresh.Equals(mainInstance.date.Hobby))
-                    gridToRefresh = grdDataHobby;
+                if (toRefresh.Equals(mainInstance.date.Master_Women_35_plus))
+                    gridToRefresh = grdDataMaster_Women_35_plus;
+                else if (toRefresh.Equals(mainInstance.date.Women_21_39))
+                    gridToRefresh = grdDataWomen_21_39;
+                else if (toRefresh.Equals(mainInstance.date.U21_Women))
+                    gridToRefresh = grdDataU21_Women;
+                else if (toRefresh.Equals(mainInstance.date.U21_Men))
+                    gridToRefresh = grdDataU21_Men;
+                else if (toRefresh.Equals(mainInstance.date.Men_21_39))
+                    gridToRefresh = grdDataMen_21_39;
+                else if (toRefresh.Equals(mainInstance.date.Master_Men_40_plus))
+                    gridToRefresh = grdDataMaster_Men_40_plus;
+                else if (toRefresh.Equals(mainInstance.date.U15_Juniors))
+                    gridToRefresh = grdDataU15Juniors;
                 else
                     return;
                 

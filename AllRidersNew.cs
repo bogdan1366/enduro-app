@@ -363,26 +363,26 @@ namespace EnduroApp
                         List<Riders> rankingList;
                         switch(rider.categoria)
                         {
-                            case Riders.categ.FEMININ_15_18:
-                                rankingList = mainInstance.date.Feminin_15_18;
+                            case Riders.categ.MASTER_WOMEN_35_PLUS:
+                                rankingList = mainInstance.date.Master_Women_35_plus;
                                 break;
-                            case Riders.categ.FEMININ_19_PLUS:
-                                rankingList = mainInstance.date.Feminin_19_plus;
+                            case Riders.categ.WOMEN_21_39:
+                                rankingList = mainInstance.date.Women_21_39;
                                 break;
-                            case Riders.categ.MASCULIN_15_18:
-                                rankingList = mainInstance.date.Masculin_15_18;
+                            case Riders.categ.U21_WOMEN:
+                                rankingList = mainInstance.date.U21_Women;
                                 break;
-                            case Riders.categ.MASCULIN_19_29:
-                                rankingList = mainInstance.date.Masculin_19_29;
+                            case Riders.categ.U21_MEN:
+                                rankingList = mainInstance.date.U21_Men;
                                 break;
-                            case Riders.categ.MASCULIN_30_39:
-                                rankingList = mainInstance.date.Masculin_30_39;
+                            case Riders.categ.MEN_21_39:
+                                rankingList = mainInstance.date.Men_21_39;
                                 break;
-                            case Riders.categ.MASCULIN_40_PLUS:
-                                rankingList = mainInstance.date.Masculin_40_plus;
+                            case Riders.categ.MASTER_MEN_40_PLUS:
+                                rankingList = mainInstance.date.Master_Men_40_plus;
                                 break;
-                            case Riders.categ.HOBBY:
-                                rankingList = mainInstance.date.Hobby;
+                            case Riders.categ.U15_JUNIORS:
+                                rankingList = mainInstance.date.U15_Juniors;
                                 break;
                             default:
                                 throw new Exception("Categorie inexistenta");

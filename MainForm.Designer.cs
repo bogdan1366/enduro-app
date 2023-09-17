@@ -442,49 +442,49 @@
             // 
             this.feminin1518ToolStripMenuItem.Name = "feminin1518ToolStripMenuItem";
             this.feminin1518ToolStripMenuItem.Size = new System.Drawing.Size(178, 24);
-            this.feminin1518ToolStripMenuItem.Text = "Feminin 15-18";
+            this.feminin1518ToolStripMenuItem.Text = "Master Women 35+";
             this.feminin1518ToolStripMenuItem.Click += new System.EventHandler(this.feminin1518ToolStripMenuItem_Click);
             // 
             // feminin19ToolStripMenuItem
             // 
             this.feminin19ToolStripMenuItem.Name = "feminin19ToolStripMenuItem";
             this.feminin19ToolStripMenuItem.Size = new System.Drawing.Size(178, 24);
-            this.feminin19ToolStripMenuItem.Text = "Feminin 19+";
+            this.feminin19ToolStripMenuItem.Text = "Women 21-29";
             this.feminin19ToolStripMenuItem.Click += new System.EventHandler(this.feminin19ToolStripMenuItem_Click);
             // 
             // masculin1518ToolStripMenuItem
             // 
             this.masculin1518ToolStripMenuItem.Name = "masculin1518ToolStripMenuItem";
             this.masculin1518ToolStripMenuItem.Size = new System.Drawing.Size(178, 24);
-            this.masculin1518ToolStripMenuItem.Text = "Masculin 15-18";
+            this.masculin1518ToolStripMenuItem.Text = "U21 Women";
             this.masculin1518ToolStripMenuItem.Click += new System.EventHandler(this.masculin1518ToolStripMenuItem_Click);
             // 
             // masculin1929ToolStripMenuItem
             // 
             this.masculin1929ToolStripMenuItem.Name = "masculin1929ToolStripMenuItem";
             this.masculin1929ToolStripMenuItem.Size = new System.Drawing.Size(178, 24);
-            this.masculin1929ToolStripMenuItem.Text = "Masculin 19-29";
+            this.masculin1929ToolStripMenuItem.Text = "U21 Men";
             this.masculin1929ToolStripMenuItem.Click += new System.EventHandler(this.masculin1929ToolStripMenuItem_Click);
             // 
             // masculin3039ToolStripMenuItem
             // 
             this.masculin3039ToolStripMenuItem.Name = "masculin3039ToolStripMenuItem";
             this.masculin3039ToolStripMenuItem.Size = new System.Drawing.Size(178, 24);
-            this.masculin3039ToolStripMenuItem.Text = "Masculin 30-39";
+            this.masculin3039ToolStripMenuItem.Text = "Men 21-39";
             this.masculin3039ToolStripMenuItem.Click += new System.EventHandler(this.masculin3039ToolStripMenuItem_Click);
             // 
             // masculin40ToolStripMenuItem
             // 
             this.masculin40ToolStripMenuItem.Name = "masculin40ToolStripMenuItem";
             this.masculin40ToolStripMenuItem.Size = new System.Drawing.Size(178, 24);
-            this.masculin40ToolStripMenuItem.Text = "Masculin 40+";
+            this.masculin40ToolStripMenuItem.Text = "Master Men 40+";
             this.masculin40ToolStripMenuItem.Click += new System.EventHandler(this.masculin40ToolStripMenuItem_Click);
             // 
             // hobbyToolStripMenuItem
             // 
             this.hobbyToolStripMenuItem.Name = "hobbyToolStripMenuItem";
             this.hobbyToolStripMenuItem.Size = new System.Drawing.Size(178, 24);
-            this.hobbyToolStripMenuItem.Text = "Hobby";
+            this.hobbyToolStripMenuItem.Text = "U15_Juniors";
             this.hobbyToolStripMenuItem.Click += new System.EventHandler(this.hobbyToolStripMenuItem_Click);
             // 
             // importFromCSVToolStripMenuItem
