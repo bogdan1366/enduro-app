@@ -1,0 +1,40 @@
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Release\EnduroApp.AllRidersNew.resources
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Release\EnduroApp.All_Riders.resources
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Release\EnduroApp.MainForm.resources
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Release\EnduroApp.Rankings.resources
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Release\EnduroApp.Register.resources
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Release\EnduroApp.csproj.GenerateResource.Cache
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Release\EnduroApp.exe
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Release\EnduroApp.pdb
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Release\FTD2XX_NET.dll
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Release\itextsharp.dll
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Release\PCIdentification.dll
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Release\FTD2XX_NET.xml
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Release\PCIdentification.pdb
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Release\EnduroApp.csprojResolveAssemblyReference.cache
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Release\EnduroApp.exe
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Release\EnduroApp.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.exe
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Release\EnduroApp.exe.manifest
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Release\EnduroApp.application
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Release\EnduroApp.exe
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Release\EnduroApp.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Release\CsvHelper.dll
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Release\FTD2XX_NET.dll
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Release\CsvHelper.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Release\CsvHelper.xml
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Release\FTD2XX_NET.xml
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.csprojResolveAssemblyReference.cache
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.About.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.AllRidersNew.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.InitForm.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.MainForm.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.Properties.Resources.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.RankingsNew.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.Register.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.csproj.GenerateResource.Cache
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.TrustInfo.xml
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.exe.manifest
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Release\EnduroApp.application
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Release\EnduroAppHelp.chm

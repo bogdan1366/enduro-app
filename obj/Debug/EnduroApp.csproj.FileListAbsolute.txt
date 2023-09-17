@@ -1,0 +1,274 @@
+D:\LoopBack\bin\Debug\EnduroApp.exe
+D:\LoopBack\bin\Debug\EnduroApp.pdb
+D:\LoopBack\bin\Debug\FTD2XX_NET.dll
+D:\LoopBack\bin\Debug\itextsharp.dll
+D:\LoopBack\bin\Debug\FTD2XX_NET.xml
+D:\LoopBack\obj\Debug\ResolveAssemblyReference.cache
+D:\LoopBack\obj\Debug\GenerateResource.read.1.tlog
+D:\LoopBack\obj\Debug\GenerateResource.write.1.tlog
+D:\LoopBack\obj\Debug\EnduroApp.exe
+D:\LoopBack\obj\Debug\EnduroApp.pdb
+D:\LoopBack\obj\Debug\EnduroApp.All_Riders.resources
+D:\LoopBack\obj\Debug\EnduroApp.MainForm.resources
+D:\LoopBack\obj\Debug\EnduroApp.Rankings.resources
+D:\LoopBack\obj\Debug\EnduroApp.Register.resources
+D:\LoopBack\bin\Debug\PCIdentification.dll
+D:\LoopBack\bin\Debug\PCIdentification.pdb
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\obj\Debug\EnduroApp.exe
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\obj\Debug\EnduroApp.pdb
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\bin\Debug\EnduroApp.exe
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\bin\Debug\EnduroApp.pdb
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\bin\Debug\FTD2XX_NET.dll
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\bin\Debug\PCIdentification.dll
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\bin\Debug\FTD2XX_NET.xml
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\bin\Debug\PCIdentification.pdb
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\obj\Debug\EnduroApp.All_Riders.resources
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\obj\Debug\EnduroApp.MainForm.resources
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\obj\Debug\EnduroApp.Rankings.resources
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\obj\Debug\EnduroApp.Register.resources
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\obj\Debug\EnduroApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Surmont_project\Enduro App\obj\Debug\EnduroApp.csproj.GenerateResource.Cache
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Debug\EnduroApp.exe
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Debug\EnduroApp.pdb
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Debug\EnduroApp.exe
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Debug\EnduroApp.pdb
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Debug\FTD2XX_NET.dll
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Debug\itextsharp.dll
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Debug\FTD2XX_NET.xml
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Debug\PCIdentification.pdb
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Debug\EnduroApp.csprojResolveAssemblyReference.cache
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Debug\EnduroApp.All_Riders.resources
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Debug\EnduroApp.MainForm.resources
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Debug\EnduroApp.Rankings.resources
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Debug\EnduroApp.Register.resources
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Debug\EnduroApp.csproj.GenerateResource.Cache
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\obj\Debug\EnduroApp.AllRidersNew.resources
+F:\Work\Rosoftlab\Bogdan Sibiu\Enduro App\bin\Debug\PCIdentification.dll
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.exe
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.pdb
+F:\Documents\Surmont_project\Enduro App Modified\bin\Debug\EnduroApp.exe
+F:\Documents\Surmont_project\Enduro App Modified\bin\Debug\EnduroApp.pdb
+F:\Documents\Surmont_project\Enduro App Modified\bin\Debug\FTD2XX_NET.dll
+F:\Documents\Surmont_project\Enduro App Modified\bin\Debug\itextsharp.dll
+F:\Documents\Surmont_project\Enduro App Modified\bin\Debug\PCIdentification.dll
+F:\Documents\Surmont_project\Enduro App Modified\bin\Debug\FTD2XX_NET.xml
+F:\Documents\Surmont_project\Enduro App Modified\bin\Debug\PCIdentification.pdb
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.csprojResolveAssemblyReference.cache
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.AllRidersNew.resources
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.All_Riders.resources
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.MainForm.resources
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.Rankings.resources
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.Register.resources
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.csproj.GenerateResource.Cache
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.RankingsNew.resources
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.InitForm.resources
+F:\Documents\Surmont_project\Enduro App Modified\bin\Debug\EnduroApp.exe.manifest
+F:\Documents\Surmont_project\Enduro App Modified\bin\Debug\EnduroApp.application
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.TrustInfo.xml
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.exe.manifest
+F:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.application
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.exe
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.pdb
+E:\Documents\Surmont_project\Enduro App Modified\bin\Debug\FTD2XX_NET.dll
+E:\Documents\Surmont_project\Enduro App Modified\bin\Debug\EnduroApp.exe.manifest
+E:\Documents\Surmont_project\Enduro App Modified\bin\Debug\EnduroApp.application
+E:\Documents\Surmont_project\Enduro App Modified\bin\Debug\EnduroApp.exe
+E:\Documents\Surmont_project\Enduro App Modified\bin\Debug\EnduroApp.pdb
+E:\Documents\Surmont_project\Enduro App Modified\bin\Debug\itextsharp.dll
+E:\Documents\Surmont_project\Enduro App Modified\bin\Debug\PCIdentification.dll
+E:\Documents\Surmont_project\Enduro App Modified\bin\Debug\PCIdentification.pdb
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.AllRidersNew.resources
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.All_Riders.resources
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.InitForm.resources
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.MainForm.resources
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.Rankings.resources
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.RankingsNew.resources
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.Register.resources
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\GenerateResource.read.1.tlog
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\GenerateResource.write.1.tlog
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.TrustInfo.xml
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.exe.manifest
+E:\Documents\Surmont_project\Enduro App Modified\obj\Debug\EnduroApp.application
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.exe
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.pdb
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\bin\Debug\EnduroApp.exe.manifest
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\bin\Debug\EnduroApp.application
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\bin\Debug\EnduroApp.exe
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\bin\Debug\EnduroApp.pdb
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\bin\Debug\FTD2XX_NET.dll
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\bin\Debug\itextsharp.dll
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\bin\Debug\PCIdentification.dll
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\bin\Debug\FTD2XX_NET.xml
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\bin\Debug\PCIdentification.pdb
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.csprojResolveAssemblyReference.cache
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.AllRidersNew.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.All_Riders.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.InitForm.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.MainForm.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.Rankings.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.RankingsNew.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.Register.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.csproj.GenerateResource.Cache
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.TrustInfo.xml
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.exe.manifest
+D:\poke\documents\proiecte personale\surmont project\Enduro App Modified\obj\Debug\EnduroApp.application
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.exe
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.pdb
+F:\Work\Rosoftlab\Enduro\bin\Debug\EnduroApp.exe.manifest
+F:\Work\Rosoftlab\Enduro\bin\Debug\EnduroApp.application
+F:\Work\Rosoftlab\Enduro\bin\Debug\EnduroApp.exe
+F:\Work\Rosoftlab\Enduro\bin\Debug\EnduroApp.pdb
+F:\Work\Rosoftlab\Enduro\bin\Debug\FTD2XX_NET.dll
+F:\Work\Rosoftlab\Enduro\bin\Debug\itextsharp.dll
+F:\Work\Rosoftlab\Enduro\bin\Debug\PCIdentification.dll
+F:\Work\Rosoftlab\Enduro\bin\Debug\FTD2XX_NET.xml
+F:\Work\Rosoftlab\Enduro\bin\Debug\PCIdentification.pdb
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.csprojResolveAssemblyReference.cache
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.AllRidersNew.resources
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.All_Riders.resources
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.InitForm.resources
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.MainForm.resources
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.Rankings.resources
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.RankingsNew.resources
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.Register.resources
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.csproj.GenerateResource.Cache
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.TrustInfo.xml
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.exe.manifest
+F:\Work\Rosoftlab\Enduro\obj\Debug\EnduroApp.application
+F:\Work\Rosoftlab\Enduro\bin\Debug\CsvHelper.dll
+F:\Work\Rosoftlab\Enduro\bin\Debug\CsvHelper.pdb
+F:\Work\Rosoftlab\Enduro\bin\Debug\CsvHelper.xml
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.exe
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.pdb
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\EnduroApp.exe.manifest
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\EnduroApp.application
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\EnduroApp.exe
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\EnduroApp.pdb
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\CsvHelper.dll
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\FTD2XX_NET.dll
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\itextsharp.dll
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\PCIdentification.dll
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\CsvHelper.pdb
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\CsvHelper.xml
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\FTD2XX_NET.xml
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\bin\Debug\PCIdentification.pdb
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.csprojResolveAssemblyReference.cache
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.AllRidersNew.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.All_Riders.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.InitForm.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.MainForm.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.Rankings.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.RankingsNew.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.Register.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.csproj.GenerateResource.Cache
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.TrustInfo.xml
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.exe.manifest
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.0\obj\Debug\EnduroApp.application
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V3.0\obj\Debug\EnduroApp.exe
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V3.0\obj\Debug\EnduroApp.pdb
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.exe
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.pdb
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.csprojResolveAssemblyReference.cache
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.AllRidersNew.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.All_Riders.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.InitForm.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.MainForm.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.Rankings.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.RankingsNew.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.Register.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.csproj.GenerateResource.Cache
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\EnduroApp.exe
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\EnduroApp.pdb
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\CsvHelper.dll
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\FTD2XX_NET.dll
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\itextsharp.dll
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\PCIdentification.dll
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\CsvHelper.pdb
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\CsvHelper.xml
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\FTD2XX_NET.xml
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\PCIdentification.pdb
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.About.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.Properties.Resources.resources
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\EnduroApp.exe.manifest
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\EnduroApp.application
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.TrustInfo.xml
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.exe.manifest
+D:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.application
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.exe
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\EnduroApp.exe.manifest
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\EnduroApp.application
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\EnduroApp.exe
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\EnduroApp.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\CsvHelper.dll
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\FTD2XX_NET.dll
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\itextsharp.dll
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\PCIdentification.dll
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\CsvHelper.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\CsvHelper.xml
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\FTD2XX_NET.xml
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\bin\Debug\PCIdentification.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.csprojResolveAssemblyReference.cache
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.About.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.AllRidersNew.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.All_Riders.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.InitForm.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.MainForm.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.Properties.Resources.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.Rankings.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.RankingsNew.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.Register.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.csproj.GenerateResource.Cache
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.TrustInfo.xml
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.exe.manifest
+C:\proj\surmont project\Enduro App Visual Studio Project V2.1\obj\Debug\EnduroApp.application
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.exe
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\EnduroApp.exe.manifest
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\EnduroApp.application
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\EnduroApp.exe
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\EnduroApp.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\CsvHelper.dll
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\FTD2XX_NET.dll
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\CsvHelper.pdb
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\CsvHelper.xml
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\FTD2XX_NET.xml
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.About.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.AllRidersNew.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.InitForm.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.MainForm.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.Properties.Resources.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.RankingsNew.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.Register.resources
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.csproj.GenerateResource.Cache
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.TrustInfo.xml
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.exe.manifest
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.application
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.csprojResolveAssemblyReference.cache
+C:\proj\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\EnduroAppHelp.chm
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.exe
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.pdb
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\EnduroAppHelp.chm
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\EnduroApp.exe.manifest
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\EnduroApp.application
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\EnduroApp.exe
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\EnduroApp.pdb
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\CsvHelper.dll
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\FTD2XX_NET.dll
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\CsvHelper.pdb
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\CsvHelper.xml
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.csprojResolveAssemblyReference.cache
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.About.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.AllRidersNew.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.InitForm.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.MainForm.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.Properties.Resources.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.RankingsNew.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.Register.resources
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.csproj.GenerateResource.Cache
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.TrustInfo.xml
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.exe.manifest
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\obj\Debug\EnduroApp.application
+d:\poke\documents\proiecte personale\surmont project\Enduro App Visual Studio Project V2.2\bin\Debug\FTD2XX_NET.xml

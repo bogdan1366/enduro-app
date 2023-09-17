@@ -1,0 +1,28 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\EnduroAppHelp.chm
+Contents file=Table of Contents.hhc
+Default Window=Search
+Default topic=FereastraClasament.htm
+Display compile progress=No
+Full-text search=Yes
+Language=0x409 English (United States)
+Title=EnduroAppHelp
+
+[WINDOWS]
+Search=,"Table of Contents.hhc",,"FereastraClasament.htm",,,,,,0x2520,,0x3006,,,,,,,,0
+
+
+[FILES]
+FereastraClasament.htm
+FereastraConcurenti.htm
+FereastraEnduroApp.htm
+MeniulFile.htm
+MeniulHelp.htm
+MeniulWindows.htm
+TabulCip.htm
+TabulConcurs.htm
+TabulDispozitivDeCronometrare.htm
+
+[INFOTYPES]
+
