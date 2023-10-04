@@ -1,0 +1,47 @@
+Version 1.2.1.0
+
+1. Women 21-39 category becomes Women 21-34
+
+Version 1.2.0.0
+
+1. New supported categories: U15 Juniors, U21 Men, Men 21-39, Master Men 40+, U21 Women, Women 21-39, Master Women 35+
+
+Version 1.1.2.0
+
+1. Corrected a bug that was preventing the user from exporting the general rankings to csv if at least one rider did not had the times downloaded from the chip
+2. Updated the FTDI drivers to the latest version
+
+Version 1.1.1.0
+
+1. Corrected a bug that was causing the riders that did not have all the checkpoints to be added to the rankings along with the other riders
+2. Replaced "NrConcurs" footer with "Cip"
+3. Replaced "Pozitie in clasament" footer with "Loc"
+4. Added DNS and DNF if a rider did not start or did not finish a stage
+
+Version 1.1.0.0
+
+1. New supported categories: Feminin 15-18, Feminin 19+, Masculin 15-18, Masculin 19-29, Masculin 30-39, Masculin 40+, Hobby
+2. Added the posibility to introduce penalties
+3. Added the posibility to specify the club for each rider
+4. New csv import and export footers
+5. Added the posibility to export general rankings and per-category rankings to csv
+6. Removed the posibility to export rankings in pdf format
+7. Renamed AllRiders window in Concurenti
+8. Renamed Rankings window in Clasament
+9. Removed the display of the transition times from the AllRiders(Concurenti) window
+10. Added the User manual in the Help menu
+
+Version 1.0.0.0
+
+1. Aligned the columns and the table footers of the .csv files used for import and export so that EnduroApp would be capable of importing 
+   a document that it exported.
+2. Updated the display of the times so that they are in the hh:mm:ss format.
+3. Added the "Sterge timpi" button so that one can remove the race times of a rider without completely removing the rider from the database
+4. Improved the communication with the checkpoints so that we can download the data from the chips faster
+5. Added the "Help -> About" tool-strip which displays the current version of EnduroApp
+6. Added the auto completion for the "Categorie concurs" toolbox from the "Inregistrare concurent" windows 
+7. Added the possibility to add a rider to the rankings even if he did not complete all the stages
+
+Version 0.0.0.0
+
+1. First released version
