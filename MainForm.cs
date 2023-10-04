@@ -462,8 +462,8 @@ namespace EnduroApp
                                 case Riders.categ.MASTER_WOMEN_35_PLUS:
                                     catList = date.Master_Women_35_plus;
                                     break;
-                                case Riders.categ.WOMEN_21_39:
-                                    catList = date.Women_21_39;
+                                case Riders.categ.WOMEN_21_34:
+                                    catList = date.Women_21_34;
                                     break;
                                 case Riders.categ.U21_WOMEN:
                                     catList = date.U21_Women;
@@ -739,8 +739,8 @@ namespace EnduroApp
                 case Riders.categ.MASTER_WOMEN_35_PLUS:
                     catList = date.Master_Women_35_plus;
                     break;
-                case Riders.categ.WOMEN_21_39:
-                    catList = date.Women_21_39;
+                case Riders.categ.WOMEN_21_34:
+                    catList = date.Women_21_34;
                     break;
                 case Riders.categ.U21_WOMEN:
                     catList = date.U21_Women;
@@ -1442,7 +1442,7 @@ namespace EnduroApp
             RankingsForm.CreateGrid();
             RankingsForm.RefreshCat(data.Master_Women_35_plus);
             this.progressBar1.Value += 7;
-            RankingsForm.RefreshCat(data.Women_21_39);
+            RankingsForm.RefreshCat(data.Women_21_34);
             this.progressBar1.Value += 7;
             RankingsForm.RefreshCat(data.U21_Women);
             this.progressBar1.Value += 7;
@@ -1619,8 +1619,8 @@ namespace EnduroApp
                 case Riders.categ.MASTER_WOMEN_35_PLUS:
                     catList = date.Master_Women_35_plus;
                     break;
-                case Riders.categ.WOMEN_21_39:
-                    catList = date.Women_21_39;
+                case Riders.categ.WOMEN_21_34:
+                    catList = date.Women_21_34;
                     break;
                 case Riders.categ.U21_WOMEN:
                     catList = date.U21_Women;
@@ -1723,7 +1723,7 @@ namespace EnduroApp
                 {
                     Cursor defaultCursor = Cursor.Current;
                     Cursor.Current = Cursors.WaitCursor;
-                    ExportToCSV.ExportDataToCSV(date.Women_21_39, date.NrofCheckpoints, saveFileDialog1.FileName);
+                    ExportToCSV.ExportDataToCSV(date.Women_21_34, date.NrofCheckpoints, saveFileDialog1.FileName);
                     Cursor.Current = defaultCursor;
                     MessageBox.Show("Export realizat cu succes !");
                 }

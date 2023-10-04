@@ -53,7 +53,7 @@
             this.splitContainer3 = new System.Windows.Forms.SplitContainer();
             this.splitContainer6 = new System.Windows.Forms.SplitContainer();
             this.grdDataMaster_Women_35_plus = new System.Windows.Forms.DataGridView();
-            this.grdDataWomen_21_39 = new System.Windows.Forms.DataGridView();
+            this.grdDataWomen_21_34 = new System.Windows.Forms.DataGridView();
             this.grdDataU15Juniors = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
@@ -84,7 +84,7 @@
             this.splitContainer6.Panel2.SuspendLayout();
             this.splitContainer6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.grdDataMaster_Women_35_plus)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.grdDataWomen_21_39)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.grdDataWomen_21_34)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.grdDataU15Juniors)).BeginInit();
             this.SuspendLayout();
             // 
@@ -311,7 +311,7 @@
             // 
             // splitContainer6.Panel2
             // 
-            this.splitContainer6.Panel2.Controls.Add(this.grdDataWomen_21_39);
+            this.splitContainer6.Panel2.Controls.Add(this.grdDataWomen_21_34);
             this.splitContainer6.Size = new System.Drawing.Size(964, 192);
             this.splitContainer6.SplitterDistance = 92;
             this.splitContainer6.TabIndex = 0;
@@ -346,11 +346,11 @@
             this.grdDataMaster_Women_35_plus.Size = new System.Drawing.Size(964, 92);
             this.grdDataMaster_Women_35_plus.TabIndex = 0;
             // 
-            // grdDataWomen_21_39
+            // grdDataWomen_21_34
             // 
-            this.grdDataWomen_21_39.AllowUserToAddRows = false;
-            this.grdDataWomen_21_39.AllowUserToDeleteRows = false;
-            this.grdDataWomen_21_39.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.grdDataWomen_21_34.AllowUserToAddRows = false;
+            this.grdDataWomen_21_34.AllowUserToDeleteRows = false;
+            this.grdDataWomen_21_34.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle11.BackColor = System.Drawing.SystemColors.Control;
             dataGridViewCellStyle11.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -358,8 +358,8 @@
             dataGridViewCellStyle11.SelectionBackColor = System.Drawing.SystemColors.Highlight;
             dataGridViewCellStyle11.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.grdDataWomen_21_39.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle11;
-            this.grdDataWomen_21_39.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.grdDataWomen_21_34.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle11;
+            this.grdDataWomen_21_34.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle12.BackColor = System.Drawing.SystemColors.Window;
             dataGridViewCellStyle12.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -367,14 +367,14 @@
             dataGridViewCellStyle12.SelectionBackColor = System.Drawing.SystemColors.Highlight;
             dataGridViewCellStyle12.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle12.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.grdDataWomen_21_39.DefaultCellStyle = dataGridViewCellStyle12;
-            this.grdDataWomen_21_39.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.grdDataWomen_21_39.Location = new System.Drawing.Point(0, 0);
-            this.grdDataWomen_21_39.Name = "grdDataWomen_21_39";
-            this.grdDataWomen_21_39.ReadOnly = true;
-            this.grdDataWomen_21_39.RowTemplate.Height = 24;
-            this.grdDataWomen_21_39.Size = new System.Drawing.Size(964, 96);
-            this.grdDataWomen_21_39.TabIndex = 0;
+            this.grdDataWomen_21_34.DefaultCellStyle = dataGridViewCellStyle12;
+            this.grdDataWomen_21_34.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.grdDataWomen_21_34.Location = new System.Drawing.Point(0, 0);
+            this.grdDataWomen_21_34.Name = "grdDataWomen_21_34";
+            this.grdDataWomen_21_34.ReadOnly = true;
+            this.grdDataWomen_21_34.RowTemplate.Height = 24;
+            this.grdDataWomen_21_34.Size = new System.Drawing.Size(964, 96);
+            this.grdDataWomen_21_34.TabIndex = 0;
             // 
             // grdDataU15Juniors
             // 
@@ -446,7 +446,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer6)).EndInit();
             this.splitContainer6.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.grdDataMaster_Women_35_plus)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.grdDataWomen_21_39)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.grdDataWomen_21_34)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.grdDataU15Juniors)).EndInit();
             this.ResumeLayout(false);
 
@@ -465,7 +465,7 @@
         private System.Windows.Forms.SplitContainer splitContainer3;
         private System.Windows.Forms.SplitContainer splitContainer6;
         private System.Windows.Forms.DataGridView grdDataMaster_Women_35_plus;
-        private System.Windows.Forms.DataGridView grdDataWomen_21_39;
+        private System.Windows.Forms.DataGridView grdDataWomen_21_34;
         private System.Windows.Forms.DataGridView grdDataU15Juniors;
     }
 }

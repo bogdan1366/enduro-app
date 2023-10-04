@@ -58,8 +58,8 @@ namespace EnduroApp
                     {
                         case categ.MASTER_WOMEN_35_PLUS:
                             return "Master Women 35+";
-                        case categ.WOMEN_21_39:
-                            return "Women 21-39";
+                        case categ.WOMEN_21_34:
+                            return "Women 21-34";
                         case categ.U21_WOMEN:
                             return "U21 Women";
                         case categ.U21_MEN:
@@ -81,8 +81,8 @@ namespace EnduroApp
                         case "Master Women 35+":
                             categoria = categ.MASTER_WOMEN_35_PLUS;
                             break;
-                        case "Women 21-39":
-                            categoria = categ.WOMEN_21_39;
+                        case "Women 21-34":
+                            categoria = categ.WOMEN_21_34;
                             break;
                         case "U21 Women":
                             categoria = categ.U21_WOMEN;
@@ -106,7 +106,7 @@ namespace EnduroApp
             }
         #endregion
 
-            public enum categ : int { U15_JUNIORS, MASTER_MEN_40_PLUS, MEN_21_39, U21_MEN, U21_WOMEN, WOMEN_21_39, MASTER_WOMEN_35_PLUS };
+            public enum categ : int { U15_JUNIORS, MASTER_MEN_40_PLUS, MEN_21_39, U21_MEN, U21_WOMEN, WOMEN_21_34, MASTER_WOMEN_35_PLUS };
         public bool hasAllCheckpoints = true;
         private byte[] tagID = new byte[4];
         private int[][] time = new int[20][]; // 20 de timpi (unul pentru fiecare checkpoint) 

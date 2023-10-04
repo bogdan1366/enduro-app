@@ -366,8 +366,8 @@ namespace EnduroApp
                             case Riders.categ.MASTER_WOMEN_35_PLUS:
                                 rankingList = mainInstance.date.Master_Women_35_plus;
                                 break;
-                            case Riders.categ.WOMEN_21_39:
-                                rankingList = mainInstance.date.Women_21_39;
+                            case Riders.categ.WOMEN_21_34:
+                                rankingList = mainInstance.date.Women_21_34;
                                 break;
                             case Riders.categ.U21_WOMEN:
                                 rankingList = mainInstance.date.U21_Women;

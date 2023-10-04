@@ -32,7 +32,7 @@ namespace EnduroApp
             this.grdDataU21_Men.Columns.Clear();
             this.grdDataU21_Women.Columns.Clear();
             this.grdDataMaster_Women_35_plus.Columns.Clear();
-            this.grdDataWomen_21_39.Columns.Clear();
+            this.grdDataWomen_21_34.Columns.Clear();
             this.grdDataU15Juniors.Columns.Clear();
             
             foreach (Riders.categ cat in Enum.GetValues(typeof(Riders.categ)))
@@ -44,8 +44,8 @@ namespace EnduroApp
                     case Riders.categ.MASTER_WOMEN_35_PLUS:
                         grdToUpdate = this.grdDataMaster_Women_35_plus;
                         break;
-                    case Riders.categ.WOMEN_21_39:
-                        grdToUpdate = this.grdDataWomen_21_39;
+                    case Riders.categ.WOMEN_21_34:
+                        grdToUpdate = this.grdDataWomen_21_34;
                         break;
                     case Riders.categ.U21_WOMEN:
                         grdToUpdate = this.grdDataU21_Women;
@@ -115,8 +115,8 @@ namespace EnduroApp
 
                 if (toRefresh.Equals(mainInstance.date.Master_Women_35_plus))
                     gridToRefresh = grdDataMaster_Women_35_plus;
-                else if (toRefresh.Equals(mainInstance.date.Women_21_39))
-                    gridToRefresh = grdDataWomen_21_39;
+                else if (toRefresh.Equals(mainInstance.date.Women_21_34))
+                    gridToRefresh = grdDataWomen_21_34;
                 else if (toRefresh.Equals(mainInstance.date.U21_Women))
                     gridToRefresh = grdDataU21_Women;
                 else if (toRefresh.Equals(mainInstance.date.U21_Men))

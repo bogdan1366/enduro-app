@@ -78,7 +78,7 @@
             "Men_21_39",
             "U21_Men",
             "U21_Women",
-            "Women_21_39",
+            "Women_21_34",
             "Master_Women_35_plus"});
             this.comboBox1.Location = new System.Drawing.Point(215, 187);
             this.comboBox1.Margin = new System.Windows.Forms.Padding(4);

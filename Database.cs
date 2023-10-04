@@ -14,7 +14,7 @@ namespace EnduroApp
         
         public List<Riders> AllRiders = new List<Riders>();
         public List<Riders> Master_Women_35_plus = new List<Riders>();
-        public List<Riders> Women_21_39 = new List<Riders>();
+        public List<Riders> Women_21_34 = new List<Riders>();
         public List<Riders> U21_Women = new List<Riders>();
         public List<Riders> U21_Men = new List<Riders>();
         public List<Riders> Men_21_39 = new List<Riders>();
