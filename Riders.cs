@@ -311,6 +311,8 @@ namespace EnduroApp
 
                 if (etapeParcurseThis == etapeParcurseAltul)
                 {
+					if (etapeParcurseThis == 0)
+                        return 0;
                     if (this.timpTotal[0] < altul.timpTotal[0])
                         return 1;
                     if (this.timpTotal[0] > altul.timpTotal[0])
